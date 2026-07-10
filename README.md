@@ -94,6 +94,15 @@ Register a new user with a map-click sequence.
 
 ---
 
+## Screenshots
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/861b7303-2e92-4f2b-9bd1-31fa2c561724" />
+**Register**
+
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/3f4ecd58-2b61-4c39-9a9e-9d4bd9b96d67" />
+**Authentication**
+
+
+
 ### `POST /api/login`
 Authenticate with a username and click sequence.
 
